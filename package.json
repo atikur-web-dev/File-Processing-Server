@@ -1,22 +1,11 @@
 {
   "name": "file-processing-server",
-  "version": "1.0.0",
-  "description": "A Node.js server demonstrating core modules with file processing",
+  "version": "1.0.0", 
   "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js"
   },
-  "keywords": [
-    "nodejs",
-    "file-processing",
-    "core-modules"
-  ],
-  "author": "Atikur Rahman",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/atikur-web-dev/File-processing-server"
-  }
+  "keywords": ["nodejs", "file-processing", "core-modules"]
 }

@@ -1,21 +1,22 @@
 {
-  "name": "full-node-js-project",
+  "name": "file-processing-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A Node.js server demonstrating core modules with file processing",
+  "type": "module",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "node --watch server.js"
   },
+  "keywords": [
+    "nodejs",
+    "file-processing",
+    "core-modules"
+  ],
+  "author": "Atikur Rahman",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atikur-web-dev/File-Processing-Server.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/atikur-web-dev/File-Processing-Server/issues"
-  },
-  "homepage": "https://github.com/atikur-web-dev/File-Processing-Server#readme"
+    "url": "https://github.com/atikur-web-dev/File-processing-server"
+  }
 }

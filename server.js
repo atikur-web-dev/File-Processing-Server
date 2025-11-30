@@ -92,6 +92,6 @@ server.listen(PORT, () => {
 🖥️ System: http://localhost:${PORT}/api/system
 
 📂 Repository: https://github.com/atikur-web-dev/File-processing-server
-👨💻 Developer: Atikur Rahman
+👨‍💻 Developer: Atikur Rahman
     `);
 });
